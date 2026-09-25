@@ -47,6 +47,7 @@
 			>;
 		};
 		adjust {
+				// Bluetooth bindings are kept for future use; CONFIG_ZMK_BLE=n disables them.
 				// ------------------------------------------------------------------------------------------
 				// |  ø  | BT1 | BT2 | BT3 | BT4 | BT5 |  ø  |  ø  |  ø  |  ø  |  ø  |  ø  |  ø  |  BT_CLR  |
 				// |  ø   |  ø  |  ø  |  ø  |BOOT |  ø  |  ø  |  ø  |  ø  |  ø  |  ø  |  ø  |  ø  |         |
