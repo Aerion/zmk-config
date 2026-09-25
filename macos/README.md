@@ -2,13 +2,18 @@
 
 ## How to install on the Mac
 
-- Install **chezmoi** and **Karabiner-Elements**. Grant the permissions
-  Karabiner requests.
-- Sync your chezmoi source, then run `chezmoi apply`. This copies
-  `FR-OSS-Arrows.keylayout` to `~/Library/Keyboard Layouts/`,
-  `karabiner.json` to `~/.config/karabiner/`, and
-  `bt60-fn-on-macbook.json` to
-  `~/.config/karabiner/assets/complex_modifications/`.
+- Install **Karabiner-Elements** and grant its requested permissions.
+- Choose how to install the [keylayout](FR-OSS-Arrows.keylayout) and
+  [Karabiner rule](bt60-fn-on-macbook.json):
+  - **With chezmoi:** sync your source and run `chezmoi apply`. It also
+    installs your `karabiner.json` profile.
+  - **Without chezmoi:** from this repository's root, run:
+
+    ```sh
+    mkdir -p "$HOME/Library/Keyboard Layouts" "$HOME/.config/karabiner/assets/complex_modifications"
+    cp macos/FR-OSS-Arrows.keylayout "$HOME/Library/Keyboard Layouts/"
+    cp macos/bt60-fn-on-macbook.json "$HOME/.config/karabiner/assets/complex_modifications/"
+    ```
 - In **System Settings → Keyboard → Text Input → Edit → Input Sources**, add
   **FR-OSS Arrows**. Log out and back in if it is missing. Keep French-PC
   available until you have tested the new layout.

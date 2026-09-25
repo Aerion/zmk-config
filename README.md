@@ -9,7 +9,8 @@ sends the FR-OSS ² position. Fn + Escape sends a backtick with the matching
 macOS input source. The existing Alt/Command positions stay as they are; this
 BT60 already has a macOS per-device Alt/Command swap. See
 [`macos/README.md`](macos/README.md) for the matching M3 MacBook Air layout
-and Fn rules.
+and Fn rules. Portable copies of the Mac input source and Karabiner rule are
+stored in [`macos/`](macos/).
 
 ![Final BT60 Base, Raise and Adjust layers with matching MacBook Air Base and Fn layouts](keyboard-layout.svg)
 
