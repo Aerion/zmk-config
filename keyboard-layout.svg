@@ -1,0 +1,1163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1140" viewBox="0 0 1800 1140" role="img" aria-labelledby="title description">
+<title id="title">Final BT60 and MacBook Air keyboard layout</title>
+<desc id="description">Two keyboards shown in base and Fn layers. BT60 and M3 MacBook Air share FR-OSS Arrows text input and Fn navigation and media shortcuts. Fn plus the bracket keys sends F14 and F15.</desc>
+<style>
+svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:#101824;color:#eaf1f7}
+.bg{fill:#101824}.panel{fill:#1b2838;stroke:#385064;stroke-width:1.5}
+.title{font-size:34px;font-weight:750;fill:#f2f6fb}.subtitle{font-size:17px;fill:#aebfd0}
+.panel-title{font-size:22px;font-weight:700;fill:#f2f6fb}.panel-subtitle{font-size:15px;fill:#b7c8d8}
+.key{fill:#2b3a4c;stroke:#61758a;stroke-width:1}.key.modifier{fill:#484468;stroke:#9288c3}
+.key.arrow{fill:#24495b;stroke:#63abc5}.key.passthrough{fill:#233142;stroke:#40586a}
+.key.action{fill:#34516c;stroke:#7fb6e5}.key.nav{fill:#24575d;stroke:#67c4c5}
+.key.media{fill:#605038;stroke:#e8b767}.key.newf{fill:#516235;stroke:#b4da6f}
+.key-text{font-size:15px;font-weight:650;fill:#f0f5fb}.key-text.small{font-size:12px}
+.note{font-size:16px;fill:#c3d1df}.note-strong{fill:#e8f4a4;font-weight:700}
+.legend{font-size:15px;fill:#d1deea}
+</style>
+<rect x="0" y="0" width="1800" height="1140" rx="0" class="bg"/>
+<text x="45" y="57" class="title" text-anchor="start">Final keyboard layout</text>
+<text x="45" y="88" class="subtitle" text-anchor="start">BT60 V1 and M3 MacBook Air · shared FR-OSS Arrows input source</text>
+<rect x="45" y="120" width="850" height="440" rx="18" class="panel"/>
+<text x="71" y="155" class="panel-title" text-anchor="start">BT60 V1 · ISO</text>
+<text x="71" y="180" class="panel-subtitle" text-anchor="start">Base · FR-OSS Arrows text output</text>
+<g><title>Escape: Esc</title>
+<rect x="85.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="108.5" y="234" class="key-text" text-anchor="middle">Esc</text>
+</g>
+<g><title>Digit1: &amp;</title>
+<rect x="137.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="160.5" y="234" class="key-text" text-anchor="middle">&amp;</text>
+</g>
+<g><title>Digit2: é</title>
+<rect x="189.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="212.5" y="234" class="key-text" text-anchor="middle">é</text>
+</g>
+<g><title>Digit3: &quot;</title>
+<rect x="241.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="264.5" y="234" class="key-text" text-anchor="middle">&quot;</text>
+</g>
+<g><title>Digit4: &#x27;</title>
+<rect x="293.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="316.5" y="234" class="key-text" text-anchor="middle">&#x27;</text>
+</g>
+<g><title>Digit5: (</title>
+<rect x="345.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="368.5" y="234" class="key-text" text-anchor="middle">(</text>
+</g>
+<g><title>Digit6: -</title>
+<rect x="397.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="420.5" y="234" class="key-text" text-anchor="middle">-</text>
+</g>
+<g><title>Digit7: è</title>
+<rect x="449.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="472.5" y="234" class="key-text" text-anchor="middle">è</text>
+</g>
+<g><title>Digit8: _</title>
+<rect x="501.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="524.5" y="234" class="key-text" text-anchor="middle">_</text>
+</g>
+<g><title>Digit9: ç</title>
+<rect x="553.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="576.5" y="234" class="key-text" text-anchor="middle">ç</text>
+</g>
+<g><title>Digit0: à</title>
+<rect x="605.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="628.5" y="234" class="key-text" text-anchor="middle">à</text>
+</g>
+<g><title>Minus: )</title>
+<rect x="657.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="680.5" y="234" class="key-text" text-anchor="middle">)</text>
+</g>
+<g><title>Equal: =</title>
+<rect x="709.0" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="732.5" y="234" class="key-text" text-anchor="middle">=</text>
+</g>
+<g><title>Backspace: Backspace</title>
+<rect x="761.0" y="203" width="94" height="50" rx="7" class="key"/>
+<text x="808.0" y="234" class="key-text small" text-anchor="middle">Backspace</text>
+</g>
+<g><title>Tab: Tab</title>
+<rect x="122.8" y="261" width="70.5" height="50" rx="7" class="key"/>
+<text x="158.0" y="292" class="key-text" text-anchor="middle">Tab</text>
+</g>
+<g><title>KeyQ: a</title>
+<rect x="198.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="221.8" y="292" class="key-text" text-anchor="middle">a</text>
+</g>
+<g><title>KeyW: z</title>
+<rect x="250.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="273.8" y="292" class="key-text" text-anchor="middle">z</text>
+</g>
+<g><title>KeyE: e</title>
+<rect x="302.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="325.8" y="292" class="key-text" text-anchor="middle">e</text>
+</g>
+<g><title>KeyR: r</title>
+<rect x="354.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="377.8" y="292" class="key-text" text-anchor="middle">r</text>
+</g>
+<g><title>KeyT: t</title>
+<rect x="406.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="429.8" y="292" class="key-text" text-anchor="middle">t</text>
+</g>
+<g><title>KeyY: y</title>
+<rect x="458.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="481.8" y="292" class="key-text" text-anchor="middle">y</text>
+</g>
+<g><title>KeyU: u</title>
+<rect x="510.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="533.8" y="292" class="key-text" text-anchor="middle">u</text>
+</g>
+<g><title>KeyI: i</title>
+<rect x="562.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="585.8" y="292" class="key-text" text-anchor="middle">i</text>
+</g>
+<g><title>KeyO: o</title>
+<rect x="614.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="637.8" y="292" class="key-text" text-anchor="middle">o</text>
+</g>
+<g><title>KeyP: p</title>
+<rect x="666.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="689.8" y="292" class="key-text" text-anchor="middle">p</text>
+</g>
+<g><title>BracketLeft: ^</title>
+<rect x="718.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="741.8" y="292" class="key-text" text-anchor="middle">^</text>
+</g>
+<g><title>BracketRight: $</title>
+<rect x="770.2" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="793.8" y="292" class="key-text" text-anchor="middle">$</text>
+</g>
+<g><title>CapsLock: Ctrl</title>
+<rect x="85.0" y="319" width="79.89999999999999" height="50" rx="7" class="key modifier"/>
+<text x="124.9" y="350" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>KeyA: q</title>
+<rect x="169.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="193.4" y="350" class="key-text" text-anchor="middle">q</text>
+</g>
+<g><title>KeyS: s</title>
+<rect x="221.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="245.4" y="350" class="key-text" text-anchor="middle">s</text>
+</g>
+<g><title>KeyD: d</title>
+<rect x="273.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="297.4" y="350" class="key-text" text-anchor="middle">d</text>
+</g>
+<g><title>KeyF: f</title>
+<rect x="325.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="349.4" y="350" class="key-text" text-anchor="middle">f</text>
+</g>
+<g><title>KeyG: g</title>
+<rect x="377.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="401.4" y="350" class="key-text" text-anchor="middle">g</text>
+</g>
+<g><title>KeyH: h</title>
+<rect x="429.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="453.4" y="350" class="key-text" text-anchor="middle">h</text>
+</g>
+<g><title>KeyJ: j</title>
+<rect x="481.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="505.4" y="350" class="key-text" text-anchor="middle">j</text>
+</g>
+<g><title>KeyK: k</title>
+<rect x="533.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="557.4" y="350" class="key-text" text-anchor="middle">k</text>
+</g>
+<g><title>KeyL: l</title>
+<rect x="585.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="609.4" y="350" class="key-text" text-anchor="middle">l</text>
+</g>
+<g><title>Semicolon: m</title>
+<rect x="637.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="661.4" y="350" class="key-text" text-anchor="middle">m</text>
+</g>
+<g><title>Quote: ù</title>
+<rect x="689.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="713.4" y="350" class="key-text" text-anchor="middle">ù</text>
+</g>
+<g><title>IntlHash: *</title>
+<rect x="741.9" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="765.4" y="350" class="key-text" text-anchor="middle">*</text>
+</g>
+<g><title>Enter: Enter</title>
+<rect x="793.9" y="319" width="61.1" height="50" rx="7" class="key"/>
+<text x="824.4" y="350" class="key-text" text-anchor="middle">Enter</text>
+</g>
+<g><title>ShiftLeft: Shift</title>
+<rect x="101.6" y="377" width="65.8" height="50" rx="7" class="key modifier"/>
+<text x="134.5" y="408" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>IntlBackslash: &lt;</title>
+<rect x="172.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="195.9" y="408" class="key-text" text-anchor="middle">&lt;</text>
+</g>
+<g><title>KeyZ: w</title>
+<rect x="224.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="247.9" y="408" class="key-text" text-anchor="middle">w</text>
+</g>
+<g><title>KeyX: x</title>
+<rect x="276.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="299.9" y="408" class="key-text" text-anchor="middle">x</text>
+</g>
+<g><title>KeyC: c</title>
+<rect x="328.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="351.9" y="408" class="key-text" text-anchor="middle">c</text>
+</g>
+<g><title>KeyV: v</title>
+<rect x="380.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="403.9" y="408" class="key-text" text-anchor="middle">v</text>
+</g>
+<g><title>KeyB: b</title>
+<rect x="432.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="455.9" y="408" class="key-text" text-anchor="middle">b</text>
+</g>
+<g><title>KeyN: n</title>
+<rect x="484.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="507.9" y="408" class="key-text" text-anchor="middle">n</text>
+</g>
+<g><title>KeyM: ,</title>
+<rect x="536.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="559.9" y="408" class="key-text" text-anchor="middle">,</text>
+</g>
+<g><title>Comma: ;</title>
+<rect x="588.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="611.9" y="408" class="key-text" text-anchor="middle">;</text>
+</g>
+<g><title>Period: :</title>
+<rect x="640.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="663.9" y="408" class="key-text" text-anchor="middle">:</text>
+</g>
+<g><title>Slash: !</title>
+<rect x="692.4" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="715.9" y="408" class="key-text" text-anchor="middle">!</text>
+</g>
+<g><title>ShiftRight: Shift</title>
+<rect x="744.4" y="377" width="94" height="50" rx="7" class="key modifier"/>
+<text x="791.4" y="408" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="194.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="217.5" y="466" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>AltLeft: Option</title>
+<rect x="246.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="269.5" y="466" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>MetaLeft: ⌘</title>
+<rect x="298.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="321.5" y="466" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>Space: Space</title>
+<rect x="350.0" y="435" width="188" height="50" rx="7" class="key"/>
+<text x="444.0" y="466" class="key-text" text-anchor="middle">Space</text>
+</g>
+<g><title>MetaRight: ⌘</title>
+<rect x="543.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="566.5" y="466" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>AltRight: Option</title>
+<rect x="595.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="618.5" y="466" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="647.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="670.5" y="466" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>ControlRight: Ctrl</title>
+<rect x="699.0" y="435" width="47" height="50" rx="7" class="key modifier"/>
+<text x="722.5" y="466" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<rect x="905" y="120" width="850" height="440" rx="18" class="panel"/>
+<text x="931" y="155" class="panel-title" text-anchor="start">M3 MacBook Air · ISO FR</text>
+<text x="931" y="180" class="panel-subtitle" text-anchor="start">Base · FR-OSS Arrows text output</text>
+<g><title>Escape: Esc</title>
+<rect x="968.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="992.0" y="234" class="key-text" text-anchor="middle">Esc</text>
+</g>
+<g><title>F1: F1</title>
+<rect x="1020.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1044.0" y="234" class="key-text" text-anchor="middle">F1</text>
+</g>
+<g><title>F2: F2</title>
+<rect x="1072.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1096.0" y="234" class="key-text" text-anchor="middle">F2</text>
+</g>
+<g><title>F3: F3</title>
+<rect x="1124.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1148.0" y="234" class="key-text" text-anchor="middle">F3</text>
+</g>
+<g><title>F4: F4</title>
+<rect x="1176.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1200.0" y="234" class="key-text" text-anchor="middle">F4</text>
+</g>
+<g><title>F5: F5</title>
+<rect x="1228.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1252.0" y="234" class="key-text" text-anchor="middle">F5</text>
+</g>
+<g><title>F6: F6</title>
+<rect x="1280.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1304.0" y="234" class="key-text" text-anchor="middle">F6</text>
+</g>
+<g><title>F7: F7</title>
+<rect x="1332.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1356.0" y="234" class="key-text" text-anchor="middle">F7</text>
+</g>
+<g><title>F8: F8</title>
+<rect x="1384.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1408.0" y="234" class="key-text" text-anchor="middle">F8</text>
+</g>
+<g><title>F9: F9</title>
+<rect x="1436.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1460.0" y="234" class="key-text" text-anchor="middle">F9</text>
+</g>
+<g><title>F10: F10</title>
+<rect x="1488.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1512.0" y="234" class="key-text" text-anchor="middle">F10</text>
+</g>
+<g><title>F11: F11</title>
+<rect x="1540.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1564.0" y="234" class="key-text" text-anchor="middle">F11</text>
+</g>
+<g><title>F12: F12</title>
+<rect x="1592.5" y="203" width="47" height="50" rx="7" class="key"/>
+<text x="1616.0" y="234" class="key-text" text-anchor="middle">F12</text>
+</g>
+<g><title>Touch ID: Touch ID</title>
+<rect x="1644.5" y="203" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1668.0" y="234" class="key-text small" text-anchor="middle">Touch ID</text>
+</g>
+<g><title>Backquote: ²</title>
+<rect x="945.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="968.5" y="292" class="key-text" text-anchor="middle">²</text>
+</g>
+<g><title>Digit1: &amp;</title>
+<rect x="997.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1020.5" y="292" class="key-text" text-anchor="middle">&amp;</text>
+</g>
+<g><title>Digit2: é</title>
+<rect x="1049.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1072.5" y="292" class="key-text" text-anchor="middle">é</text>
+</g>
+<g><title>Digit3: &quot;</title>
+<rect x="1101.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1124.5" y="292" class="key-text" text-anchor="middle">&quot;</text>
+</g>
+<g><title>Digit4: &#x27;</title>
+<rect x="1153.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1176.5" y="292" class="key-text" text-anchor="middle">&#x27;</text>
+</g>
+<g><title>Digit5: (</title>
+<rect x="1205.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1228.5" y="292" class="key-text" text-anchor="middle">(</text>
+</g>
+<g><title>Digit6: -</title>
+<rect x="1257.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1280.5" y="292" class="key-text" text-anchor="middle">-</text>
+</g>
+<g><title>Digit7: è</title>
+<rect x="1309.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1332.5" y="292" class="key-text" text-anchor="middle">è</text>
+</g>
+<g><title>Digit8: _</title>
+<rect x="1361.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1384.5" y="292" class="key-text" text-anchor="middle">_</text>
+</g>
+<g><title>Digit9: ç</title>
+<rect x="1413.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1436.5" y="292" class="key-text" text-anchor="middle">ç</text>
+</g>
+<g><title>Digit0: à</title>
+<rect x="1465.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1488.5" y="292" class="key-text" text-anchor="middle">à</text>
+</g>
+<g><title>Minus: )</title>
+<rect x="1517.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1540.5" y="292" class="key-text" text-anchor="middle">)</text>
+</g>
+<g><title>Equal: =</title>
+<rect x="1569.0" y="261" width="47" height="50" rx="7" class="key"/>
+<text x="1592.5" y="292" class="key-text" text-anchor="middle">=</text>
+</g>
+<g><title>Backspace: Backspace</title>
+<rect x="1621.0" y="261" width="94" height="50" rx="7" class="key"/>
+<text x="1668.0" y="292" class="key-text small" text-anchor="middle">Backspace</text>
+</g>
+<g><title>Tab: Tab</title>
+<rect x="982.8" y="319" width="70.5" height="50" rx="7" class="key"/>
+<text x="1018.0" y="350" class="key-text" text-anchor="middle">Tab</text>
+</g>
+<g><title>KeyQ: a</title>
+<rect x="1058.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1081.8" y="350" class="key-text" text-anchor="middle">a</text>
+</g>
+<g><title>KeyW: z</title>
+<rect x="1110.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1133.8" y="350" class="key-text" text-anchor="middle">z</text>
+</g>
+<g><title>KeyE: e</title>
+<rect x="1162.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1185.8" y="350" class="key-text" text-anchor="middle">e</text>
+</g>
+<g><title>KeyR: r</title>
+<rect x="1214.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1237.8" y="350" class="key-text" text-anchor="middle">r</text>
+</g>
+<g><title>KeyT: t</title>
+<rect x="1266.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1289.8" y="350" class="key-text" text-anchor="middle">t</text>
+</g>
+<g><title>KeyY: y</title>
+<rect x="1318.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1341.8" y="350" class="key-text" text-anchor="middle">y</text>
+</g>
+<g><title>KeyU: u</title>
+<rect x="1370.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1393.8" y="350" class="key-text" text-anchor="middle">u</text>
+</g>
+<g><title>KeyI: i</title>
+<rect x="1422.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1445.8" y="350" class="key-text" text-anchor="middle">i</text>
+</g>
+<g><title>KeyO: o</title>
+<rect x="1474.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1497.8" y="350" class="key-text" text-anchor="middle">o</text>
+</g>
+<g><title>KeyP: p</title>
+<rect x="1526.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1549.8" y="350" class="key-text" text-anchor="middle">p</text>
+</g>
+<g><title>BracketLeft: ^</title>
+<rect x="1578.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1601.8" y="350" class="key-text" text-anchor="middle">^</text>
+</g>
+<g><title>BracketRight: $</title>
+<rect x="1630.2" y="319" width="47" height="50" rx="7" class="key"/>
+<text x="1653.8" y="350" class="key-text" text-anchor="middle">$</text>
+</g>
+<g><title>CapsLock: Ctrl</title>
+<rect x="945.0" y="377" width="79.89999999999999" height="50" rx="7" class="key modifier"/>
+<text x="985.0" y="408" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>KeyA: q</title>
+<rect x="1029.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1053.4" y="408" class="key-text" text-anchor="middle">q</text>
+</g>
+<g><title>KeyS: s</title>
+<rect x="1081.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1105.4" y="408" class="key-text" text-anchor="middle">s</text>
+</g>
+<g><title>KeyD: d</title>
+<rect x="1133.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1157.4" y="408" class="key-text" text-anchor="middle">d</text>
+</g>
+<g><title>KeyF: f</title>
+<rect x="1185.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1209.4" y="408" class="key-text" text-anchor="middle">f</text>
+</g>
+<g><title>KeyG: g</title>
+<rect x="1237.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1261.4" y="408" class="key-text" text-anchor="middle">g</text>
+</g>
+<g><title>KeyH: h</title>
+<rect x="1289.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1313.4" y="408" class="key-text" text-anchor="middle">h</text>
+</g>
+<g><title>KeyJ: j</title>
+<rect x="1341.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1365.4" y="408" class="key-text" text-anchor="middle">j</text>
+</g>
+<g><title>KeyK: k</title>
+<rect x="1393.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1417.4" y="408" class="key-text" text-anchor="middle">k</text>
+</g>
+<g><title>KeyL: l</title>
+<rect x="1445.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1469.4" y="408" class="key-text" text-anchor="middle">l</text>
+</g>
+<g><title>Semicolon: m</title>
+<rect x="1497.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1521.4" y="408" class="key-text" text-anchor="middle">m</text>
+</g>
+<g><title>Quote: ù</title>
+<rect x="1549.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1573.4" y="408" class="key-text" text-anchor="middle">ù</text>
+</g>
+<g><title>IntlHash: *</title>
+<rect x="1601.9" y="377" width="47" height="50" rx="7" class="key"/>
+<text x="1625.4" y="408" class="key-text" text-anchor="middle">*</text>
+</g>
+<g><title>Enter: Enter</title>
+<rect x="1653.9" y="377" width="61.1" height="50" rx="7" class="key"/>
+<text x="1684.5" y="408" class="key-text" text-anchor="middle">Enter</text>
+</g>
+<g><title>ShiftLeft: Shift</title>
+<rect x="961.6" y="435" width="65.8" height="50" rx="7" class="key modifier"/>
+<text x="994.5" y="466" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>IntlBackslash: &lt;</title>
+<rect x="1032.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1055.9" y="466" class="key-text" text-anchor="middle">&lt;</text>
+</g>
+<g><title>KeyZ: w</title>
+<rect x="1084.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1107.9" y="466" class="key-text" text-anchor="middle">w</text>
+</g>
+<g><title>KeyX: x</title>
+<rect x="1136.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1159.9" y="466" class="key-text" text-anchor="middle">x</text>
+</g>
+<g><title>KeyC: c</title>
+<rect x="1188.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1211.9" y="466" class="key-text" text-anchor="middle">c</text>
+</g>
+<g><title>KeyV: v</title>
+<rect x="1240.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1263.9" y="466" class="key-text" text-anchor="middle">v</text>
+</g>
+<g><title>KeyB: b</title>
+<rect x="1292.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1315.9" y="466" class="key-text" text-anchor="middle">b</text>
+</g>
+<g><title>KeyN: n</title>
+<rect x="1344.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1367.9" y="466" class="key-text" text-anchor="middle">n</text>
+</g>
+<g><title>KeyM: ,</title>
+<rect x="1396.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1419.9" y="466" class="key-text" text-anchor="middle">,</text>
+</g>
+<g><title>Comma: ;</title>
+<rect x="1448.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1471.9" y="466" class="key-text" text-anchor="middle">;</text>
+</g>
+<g><title>Period: :</title>
+<rect x="1500.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1523.9" y="466" class="key-text" text-anchor="middle">:</text>
+</g>
+<g><title>Slash: !</title>
+<rect x="1552.4" y="435" width="47" height="50" rx="7" class="key"/>
+<text x="1575.9" y="466" class="key-text" text-anchor="middle">!</text>
+</g>
+<g><title>ShiftRight: Shift</title>
+<rect x="1604.4" y="435" width="94" height="50" rx="7" class="key modifier"/>
+<text x="1651.4" y="466" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="976.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="999.5" y="524" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>ControlLeft: Ctrl</title>
+<rect x="1028.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1051.5" y="524" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>AltLeft: Option</title>
+<rect x="1080.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1103.5" y="524" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>MetaLeft: ⌘</title>
+<rect x="1132.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1155.5" y="524" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>Space: Space</title>
+<rect x="1184.0" y="493" width="188" height="50" rx="7" class="key"/>
+<text x="1278.0" y="524" class="key-text" text-anchor="middle">Space</text>
+</g>
+<g><title>MetaRight: ⌘</title>
+<rect x="1377.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1400.5" y="524" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>AltRight: Option</title>
+<rect x="1429.0" y="493" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1452.5" y="524" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>ArrowLeft: ←</title>
+<rect x="1481.0" y="493" width="47" height="50" rx="7" class="key arrow"/>
+<text x="1504.5" y="524" class="key-text" text-anchor="middle">←</text>
+</g>
+<g><title>ArrowDown: ↓</title>
+<rect x="1533.0" y="493" width="47" height="50" rx="7" class="key arrow"/>
+<text x="1556.5" y="524" class="key-text" text-anchor="middle">↓</text>
+</g>
+<g><title>ArrowUp: ↑</title>
+<rect x="1585.0" y="493" width="47" height="50" rx="7" class="key arrow"/>
+<text x="1608.5" y="524" class="key-text" text-anchor="middle">↑</text>
+</g>
+<g><title>ArrowRight: →</title>
+<rect x="1637.0" y="493" width="47" height="50" rx="7" class="key arrow"/>
+<text x="1660.5" y="524" class="key-text" text-anchor="middle">→</text>
+</g>
+<rect x="45" y="585" width="850" height="440" rx="18" class="panel"/>
+<text x="71" y="620" class="panel-title" text-anchor="start">BT60 V1 · ISO</text>
+<text x="71" y="645" class="panel-subtitle" text-anchor="start">Fn / Raise · hold Fn to use the highlighted actions</text>
+<g><title>Escape: `</title>
+<rect x="85.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="108.5" y="699" class="key-text" text-anchor="middle">`</text>
+</g>
+<g><title>Digit1: F1</title>
+<rect x="137.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="160.5" y="699" class="key-text" text-anchor="middle">F1</text>
+</g>
+<g><title>Digit2: F2</title>
+<rect x="189.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="212.5" y="699" class="key-text" text-anchor="middle">F2</text>
+</g>
+<g><title>Digit3: F3</title>
+<rect x="241.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="264.5" y="699" class="key-text" text-anchor="middle">F3</text>
+</g>
+<g><title>Digit4: F4</title>
+<rect x="293.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="316.5" y="699" class="key-text" text-anchor="middle">F4</text>
+</g>
+<g><title>Digit5: F5</title>
+<rect x="345.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="368.5" y="699" class="key-text" text-anchor="middle">F5</text>
+</g>
+<g><title>Digit6: F6</title>
+<rect x="397.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="420.5" y="699" class="key-text" text-anchor="middle">F6</text>
+</g>
+<g><title>Digit7: F7</title>
+<rect x="449.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="472.5" y="699" class="key-text" text-anchor="middle">F7</text>
+</g>
+<g><title>Digit8: F8</title>
+<rect x="501.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="524.5" y="699" class="key-text" text-anchor="middle">F8</text>
+</g>
+<g><title>Digit9: F9</title>
+<rect x="553.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="576.5" y="699" class="key-text" text-anchor="middle">F9</text>
+</g>
+<g><title>Digit0: F10</title>
+<rect x="605.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="628.5" y="699" class="key-text" text-anchor="middle">F10</text>
+</g>
+<g><title>Minus: F11</title>
+<rect x="657.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="680.5" y="699" class="key-text" text-anchor="middle">F11</text>
+</g>
+<g><title>Equal: F12</title>
+<rect x="709.0" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="732.5" y="699" class="key-text" text-anchor="middle">F12</text>
+</g>
+<g><title>Backspace: Del</title>
+<rect x="761.0" y="668" width="94" height="50" rx="7" class="key action"/>
+<text x="808.0" y="699" class="key-text" text-anchor="middle">Del</text>
+</g>
+<g><title>Tab: ²</title>
+<rect x="122.8" y="726" width="70.5" height="50" rx="7" class="key action"/>
+<text x="158.0" y="757" class="key-text" text-anchor="middle">²</text>
+</g>
+<g><title>KeyQ: a</title>
+<rect x="198.2" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="221.8" y="757" class="key-text" text-anchor="middle">a</text>
+</g>
+<g><title>KeyW: z</title>
+<rect x="250.2" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="273.8" y="757" class="key-text" text-anchor="middle">z</text>
+</g>
+<g><title>KeyE: e</title>
+<rect x="302.2" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="325.8" y="757" class="key-text" text-anchor="middle">e</text>
+</g>
+<g><title>KeyR: r</title>
+<rect x="354.2" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="377.8" y="757" class="key-text" text-anchor="middle">r</text>
+</g>
+<g><title>KeyT: t</title>
+<rect x="406.2" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="429.8" y="757" class="key-text" text-anchor="middle">t</text>
+</g>
+<g><title>KeyY: Mute</title>
+<rect x="458.2" y="726" width="47" height="50" rx="7" class="key media"/>
+<text x="481.8" y="757" class="key-text" text-anchor="middle">Mute</text>
+</g>
+<g><title>KeyU: Vol−</title>
+<rect x="510.2" y="726" width="47" height="50" rx="7" class="key media"/>
+<text x="533.8" y="757" class="key-text" text-anchor="middle">Vol−</text>
+</g>
+<g><title>KeyI: Vol+</title>
+<rect x="562.2" y="726" width="47" height="50" rx="7" class="key media"/>
+<text x="585.8" y="757" class="key-text" text-anchor="middle">Vol+</text>
+</g>
+<g><title>KeyO: ↑</title>
+<rect x="614.2" y="726" width="47" height="50" rx="7" class="key nav"/>
+<text x="637.8" y="757" class="key-text" text-anchor="middle">↑</text>
+</g>
+<g><title>KeyP: Print</title>
+<rect x="666.2" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="689.8" y="757" class="key-text" text-anchor="middle">Print</text>
+</g>
+<g><title>BracketLeft: F14</title>
+<rect x="718.2" y="726" width="47" height="50" rx="7" class="key newf"/>
+<text x="741.8" y="757" class="key-text" text-anchor="middle">F14</text>
+</g>
+<g><title>BracketRight: F15</title>
+<rect x="770.2" y="726" width="47" height="50" rx="7" class="key newf"/>
+<text x="793.8" y="757" class="key-text" text-anchor="middle">F15</text>
+</g>
+<g><title>CapsLock: Ctrl</title>
+<rect x="85.0" y="784" width="79.89999999999999" height="50" rx="7" class="key passthrough"/>
+<text x="124.9" y="815" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>KeyA: q</title>
+<rect x="169.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="193.4" y="815" class="key-text" text-anchor="middle">q</text>
+</g>
+<g><title>KeyS: s</title>
+<rect x="221.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="245.4" y="815" class="key-text" text-anchor="middle">s</text>
+</g>
+<g><title>KeyD: d</title>
+<rect x="273.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="297.4" y="815" class="key-text" text-anchor="middle">d</text>
+</g>
+<g><title>KeyF: f</title>
+<rect x="325.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="349.4" y="815" class="key-text" text-anchor="middle">f</text>
+</g>
+<g><title>KeyG: g</title>
+<rect x="377.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="401.4" y="815" class="key-text" text-anchor="middle">g</text>
+</g>
+<g><title>KeyH: h</title>
+<rect x="429.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="453.4" y="815" class="key-text" text-anchor="middle">h</text>
+</g>
+<g><title>KeyJ: PgUp</title>
+<rect x="481.9" y="784" width="47" height="50" rx="7" class="key nav"/>
+<text x="505.4" y="815" class="key-text" text-anchor="middle">PgUp</text>
+</g>
+<g><title>KeyK: ←</title>
+<rect x="533.9" y="784" width="47" height="50" rx="7" class="key nav"/>
+<text x="557.4" y="815" class="key-text" text-anchor="middle">←</text>
+</g>
+<g><title>KeyL: ↓</title>
+<rect x="585.9" y="784" width="47" height="50" rx="7" class="key nav"/>
+<text x="609.4" y="815" class="key-text" text-anchor="middle">↓</text>
+</g>
+<g><title>Semicolon: →</title>
+<rect x="637.9" y="784" width="47" height="50" rx="7" class="key nav"/>
+<text x="661.4" y="815" class="key-text" text-anchor="middle">→</text>
+</g>
+<g><title>Quote: Menu</title>
+<rect x="689.9" y="784" width="47" height="50" rx="7" class="key action"/>
+<text x="713.4" y="815" class="key-text" text-anchor="middle">Menu</text>
+</g>
+<g><title>IntlHash: *</title>
+<rect x="741.9" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="765.4" y="815" class="key-text" text-anchor="middle">*</text>
+</g>
+<g><title>Enter: Enter</title>
+<rect x="793.9" y="784" width="61.1" height="50" rx="7" class="key passthrough"/>
+<text x="824.4" y="815" class="key-text" text-anchor="middle">Enter</text>
+</g>
+<g><title>ShiftLeft: Shift</title>
+<rect x="101.6" y="842" width="65.8" height="50" rx="7" class="key passthrough"/>
+<text x="134.5" y="873" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>IntlBackslash: &lt;</title>
+<rect x="172.4" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="195.9" y="873" class="key-text" text-anchor="middle">&lt;</text>
+</g>
+<g><title>KeyZ: Prev</title>
+<rect x="224.4" y="842" width="47" height="50" rx="7" class="key media"/>
+<text x="247.9" y="873" class="key-text" text-anchor="middle">Prev</text>
+</g>
+<g><title>KeyX: Play</title>
+<rect x="276.4" y="842" width="47" height="50" rx="7" class="key media"/>
+<text x="299.9" y="873" class="key-text" text-anchor="middle">Play</text>
+</g>
+<g><title>KeyC: Next</title>
+<rect x="328.4" y="842" width="47" height="50" rx="7" class="key media"/>
+<text x="351.9" y="873" class="key-text" text-anchor="middle">Next</text>
+</g>
+<g><title>KeyV: v</title>
+<rect x="380.4" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="403.9" y="873" class="key-text" text-anchor="middle">v</text>
+</g>
+<g><title>KeyB: b</title>
+<rect x="432.4" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="455.9" y="873" class="key-text" text-anchor="middle">b</text>
+</g>
+<g><title>KeyN: n</title>
+<rect x="484.4" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="507.9" y="873" class="key-text" text-anchor="middle">n</text>
+</g>
+<g><title>KeyM: PgDn</title>
+<rect x="536.4" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="559.9" y="873" class="key-text" text-anchor="middle">PgDn</text>
+</g>
+<g><title>Comma: Home</title>
+<rect x="588.4" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="611.9" y="873" class="key-text" text-anchor="middle">Home</text>
+</g>
+<g><title>Period: End</title>
+<rect x="640.4" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="663.9" y="873" class="key-text" text-anchor="middle">End</text>
+</g>
+<g><title>Slash: !</title>
+<rect x="692.4" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="715.9" y="873" class="key-text" text-anchor="middle">!</text>
+</g>
+<g><title>ShiftRight: Shift</title>
+<rect x="744.4" y="842" width="94" height="50" rx="7" class="key passthrough"/>
+<text x="791.4" y="873" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="194.0" y="900" width="47" height="50" rx="7" class="key modifier"/>
+<text x="217.5" y="931" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>AltLeft: Option</title>
+<rect x="246.0" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="269.5" y="931" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>MetaLeft: ⌘</title>
+<rect x="298.0" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="321.5" y="931" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>Space: Space</title>
+<rect x="350.0" y="900" width="188" height="50" rx="7" class="key passthrough"/>
+<text x="444.0" y="931" class="key-text" text-anchor="middle">Space</text>
+</g>
+<g><title>MetaRight: ⌘</title>
+<rect x="543.0" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="566.5" y="931" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>AltRight: Option</title>
+<rect x="595.0" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="618.5" y="931" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="647.0" y="900" width="47" height="50" rx="7" class="key modifier"/>
+<text x="670.5" y="931" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>ControlRight: Ctrl</title>
+<rect x="699.0" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="722.5" y="931" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<rect x="905" y="585" width="850" height="440" rx="18" class="panel"/>
+<text x="931" y="620" class="panel-title" text-anchor="start">M3 MacBook Air · ISO FR</text>
+<text x="931" y="645" class="panel-subtitle" text-anchor="start">Fn / Raise · hold Fn to use the highlighted actions</text>
+<g><title>Escape: `</title>
+<rect x="968.5" y="668" width="47" height="50" rx="7" class="key action"/>
+<text x="992.0" y="699" class="key-text" text-anchor="middle">`</text>
+</g>
+<g><title>F1: F1</title>
+<rect x="1020.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1044.0" y="699" class="key-text" text-anchor="middle">F1</text>
+</g>
+<g><title>F2: F2</title>
+<rect x="1072.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1096.0" y="699" class="key-text" text-anchor="middle">F2</text>
+</g>
+<g><title>F3: F3</title>
+<rect x="1124.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1148.0" y="699" class="key-text" text-anchor="middle">F3</text>
+</g>
+<g><title>F4: F4</title>
+<rect x="1176.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1200.0" y="699" class="key-text" text-anchor="middle">F4</text>
+</g>
+<g><title>F5: F5</title>
+<rect x="1228.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1252.0" y="699" class="key-text" text-anchor="middle">F5</text>
+</g>
+<g><title>F6: F6</title>
+<rect x="1280.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1304.0" y="699" class="key-text" text-anchor="middle">F6</text>
+</g>
+<g><title>F7: F7</title>
+<rect x="1332.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1356.0" y="699" class="key-text" text-anchor="middle">F7</text>
+</g>
+<g><title>F8: F8</title>
+<rect x="1384.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1408.0" y="699" class="key-text" text-anchor="middle">F8</text>
+</g>
+<g><title>F9: F9</title>
+<rect x="1436.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1460.0" y="699" class="key-text" text-anchor="middle">F9</text>
+</g>
+<g><title>F10: F10</title>
+<rect x="1488.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1512.0" y="699" class="key-text" text-anchor="middle">F10</text>
+</g>
+<g><title>F11: F11</title>
+<rect x="1540.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1564.0" y="699" class="key-text" text-anchor="middle">F11</text>
+</g>
+<g><title>F12: F12</title>
+<rect x="1592.5" y="668" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1616.0" y="699" class="key-text" text-anchor="middle">F12</text>
+</g>
+<g><title>Touch ID: Touch ID</title>
+<rect x="1644.5" y="668" width="47" height="50" rx="7" class="key modifier"/>
+<text x="1668.0" y="699" class="key-text small" text-anchor="middle">Touch ID</text>
+</g>
+<g><title>Backquote: ²</title>
+<rect x="945.0" y="726" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="968.5" y="757" class="key-text" text-anchor="middle">²</text>
+</g>
+<g><title>Digit1: F1</title>
+<rect x="997.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1020.5" y="757" class="key-text" text-anchor="middle">F1</text>
+</g>
+<g><title>Digit2: F2</title>
+<rect x="1049.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1072.5" y="757" class="key-text" text-anchor="middle">F2</text>
+</g>
+<g><title>Digit3: F3</title>
+<rect x="1101.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1124.5" y="757" class="key-text" text-anchor="middle">F3</text>
+</g>
+<g><title>Digit4: F4</title>
+<rect x="1153.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1176.5" y="757" class="key-text" text-anchor="middle">F4</text>
+</g>
+<g><title>Digit5: F5</title>
+<rect x="1205.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1228.5" y="757" class="key-text" text-anchor="middle">F5</text>
+</g>
+<g><title>Digit6: F6</title>
+<rect x="1257.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1280.5" y="757" class="key-text" text-anchor="middle">F6</text>
+</g>
+<g><title>Digit7: F7</title>
+<rect x="1309.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1332.5" y="757" class="key-text" text-anchor="middle">F7</text>
+</g>
+<g><title>Digit8: F8</title>
+<rect x="1361.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1384.5" y="757" class="key-text" text-anchor="middle">F8</text>
+</g>
+<g><title>Digit9: F9</title>
+<rect x="1413.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1436.5" y="757" class="key-text" text-anchor="middle">F9</text>
+</g>
+<g><title>Digit0: F10</title>
+<rect x="1465.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1488.5" y="757" class="key-text" text-anchor="middle">F10</text>
+</g>
+<g><title>Minus: F11</title>
+<rect x="1517.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1540.5" y="757" class="key-text" text-anchor="middle">F11</text>
+</g>
+<g><title>Equal: F12</title>
+<rect x="1569.0" y="726" width="47" height="50" rx="7" class="key action"/>
+<text x="1592.5" y="757" class="key-text" text-anchor="middle">F12</text>
+</g>
+<g><title>Backspace: Del</title>
+<rect x="1621.0" y="726" width="94" height="50" rx="7" class="key action"/>
+<text x="1668.0" y="757" class="key-text" text-anchor="middle">Del</text>
+</g>
+<g><title>Tab: ²</title>
+<rect x="982.8" y="784" width="70.5" height="50" rx="7" class="key action"/>
+<text x="1018.0" y="815" class="key-text" text-anchor="middle">²</text>
+</g>
+<g><title>KeyQ: a</title>
+<rect x="1058.2" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1081.8" y="815" class="key-text" text-anchor="middle">a</text>
+</g>
+<g><title>KeyW: z</title>
+<rect x="1110.2" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1133.8" y="815" class="key-text" text-anchor="middle">z</text>
+</g>
+<g><title>KeyE: e</title>
+<rect x="1162.2" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1185.8" y="815" class="key-text" text-anchor="middle">e</text>
+</g>
+<g><title>KeyR: r</title>
+<rect x="1214.2" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1237.8" y="815" class="key-text" text-anchor="middle">r</text>
+</g>
+<g><title>KeyT: t</title>
+<rect x="1266.2" y="784" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1289.8" y="815" class="key-text" text-anchor="middle">t</text>
+</g>
+<g><title>KeyY: Mute</title>
+<rect x="1318.2" y="784" width="47" height="50" rx="7" class="key media"/>
+<text x="1341.8" y="815" class="key-text" text-anchor="middle">Mute</text>
+</g>
+<g><title>KeyU: Vol−</title>
+<rect x="1370.2" y="784" width="47" height="50" rx="7" class="key media"/>
+<text x="1393.8" y="815" class="key-text" text-anchor="middle">Vol−</text>
+</g>
+<g><title>KeyI: Vol+</title>
+<rect x="1422.2" y="784" width="47" height="50" rx="7" class="key media"/>
+<text x="1445.8" y="815" class="key-text" text-anchor="middle">Vol+</text>
+</g>
+<g><title>KeyO: ↑</title>
+<rect x="1474.2" y="784" width="47" height="50" rx="7" class="key nav"/>
+<text x="1497.8" y="815" class="key-text" text-anchor="middle">↑</text>
+</g>
+<g><title>KeyP: Print</title>
+<rect x="1526.2" y="784" width="47" height="50" rx="7" class="key action"/>
+<text x="1549.8" y="815" class="key-text" text-anchor="middle">Print</text>
+</g>
+<g><title>BracketLeft: F14</title>
+<rect x="1578.2" y="784" width="47" height="50" rx="7" class="key newf"/>
+<text x="1601.8" y="815" class="key-text" text-anchor="middle">F14</text>
+</g>
+<g><title>BracketRight: F15</title>
+<rect x="1630.2" y="784" width="47" height="50" rx="7" class="key newf"/>
+<text x="1653.8" y="815" class="key-text" text-anchor="middle">F15</text>
+</g>
+<g><title>CapsLock: Ctrl</title>
+<rect x="945.0" y="842" width="79.89999999999999" height="50" rx="7" class="key passthrough"/>
+<text x="985.0" y="873" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>KeyA: q</title>
+<rect x="1029.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1053.4" y="873" class="key-text" text-anchor="middle">q</text>
+</g>
+<g><title>KeyS: s</title>
+<rect x="1081.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1105.4" y="873" class="key-text" text-anchor="middle">s</text>
+</g>
+<g><title>KeyD: d</title>
+<rect x="1133.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1157.4" y="873" class="key-text" text-anchor="middle">d</text>
+</g>
+<g><title>KeyF: f</title>
+<rect x="1185.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1209.4" y="873" class="key-text" text-anchor="middle">f</text>
+</g>
+<g><title>KeyG: g</title>
+<rect x="1237.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1261.4" y="873" class="key-text" text-anchor="middle">g</text>
+</g>
+<g><title>KeyH: h</title>
+<rect x="1289.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1313.4" y="873" class="key-text" text-anchor="middle">h</text>
+</g>
+<g><title>KeyJ: PgUp</title>
+<rect x="1341.9" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="1365.4" y="873" class="key-text" text-anchor="middle">PgUp</text>
+</g>
+<g><title>KeyK: ←</title>
+<rect x="1393.9" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="1417.4" y="873" class="key-text" text-anchor="middle">←</text>
+</g>
+<g><title>KeyL: ↓</title>
+<rect x="1445.9" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="1469.4" y="873" class="key-text" text-anchor="middle">↓</text>
+</g>
+<g><title>Semicolon: →</title>
+<rect x="1497.9" y="842" width="47" height="50" rx="7" class="key nav"/>
+<text x="1521.4" y="873" class="key-text" text-anchor="middle">→</text>
+</g>
+<g><title>Quote: Menu</title>
+<rect x="1549.9" y="842" width="47" height="50" rx="7" class="key action"/>
+<text x="1573.4" y="873" class="key-text" text-anchor="middle">Menu</text>
+</g>
+<g><title>IntlHash: *</title>
+<rect x="1601.9" y="842" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1625.4" y="873" class="key-text" text-anchor="middle">*</text>
+</g>
+<g><title>Enter: Enter</title>
+<rect x="1653.9" y="842" width="61.1" height="50" rx="7" class="key passthrough"/>
+<text x="1684.5" y="873" class="key-text" text-anchor="middle">Enter</text>
+</g>
+<g><title>ShiftLeft: Shift</title>
+<rect x="961.6" y="900" width="65.8" height="50" rx="7" class="key passthrough"/>
+<text x="994.5" y="931" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>IntlBackslash: &lt;</title>
+<rect x="1032.4" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1055.9" y="931" class="key-text" text-anchor="middle">&lt;</text>
+</g>
+<g><title>KeyZ: Prev</title>
+<rect x="1084.4" y="900" width="47" height="50" rx="7" class="key media"/>
+<text x="1107.9" y="931" class="key-text" text-anchor="middle">Prev</text>
+</g>
+<g><title>KeyX: Play</title>
+<rect x="1136.4" y="900" width="47" height="50" rx="7" class="key media"/>
+<text x="1159.9" y="931" class="key-text" text-anchor="middle">Play</text>
+</g>
+<g><title>KeyC: Next</title>
+<rect x="1188.4" y="900" width="47" height="50" rx="7" class="key media"/>
+<text x="1211.9" y="931" class="key-text" text-anchor="middle">Next</text>
+</g>
+<g><title>KeyV: v</title>
+<rect x="1240.4" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1263.9" y="931" class="key-text" text-anchor="middle">v</text>
+</g>
+<g><title>KeyB: b</title>
+<rect x="1292.4" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1315.9" y="931" class="key-text" text-anchor="middle">b</text>
+</g>
+<g><title>KeyN: n</title>
+<rect x="1344.4" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1367.9" y="931" class="key-text" text-anchor="middle">n</text>
+</g>
+<g><title>KeyM: PgDn</title>
+<rect x="1396.4" y="900" width="47" height="50" rx="7" class="key nav"/>
+<text x="1419.9" y="931" class="key-text" text-anchor="middle">PgDn</text>
+</g>
+<g><title>Comma: Home</title>
+<rect x="1448.4" y="900" width="47" height="50" rx="7" class="key nav"/>
+<text x="1471.9" y="931" class="key-text" text-anchor="middle">Home</text>
+</g>
+<g><title>Period: End</title>
+<rect x="1500.4" y="900" width="47" height="50" rx="7" class="key nav"/>
+<text x="1523.9" y="931" class="key-text" text-anchor="middle">End</text>
+</g>
+<g><title>Slash: !</title>
+<rect x="1552.4" y="900" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1575.9" y="931" class="key-text" text-anchor="middle">!</text>
+</g>
+<g><title>ShiftRight: Shift</title>
+<rect x="1604.4" y="900" width="94" height="50" rx="7" class="key passthrough"/>
+<text x="1651.4" y="931" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="976.0" y="958" width="47" height="50" rx="7" class="key modifier"/>
+<text x="999.5" y="989" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>ControlLeft: Ctrl</title>
+<rect x="1028.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1051.5" y="989" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>AltLeft: Option</title>
+<rect x="1080.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1103.5" y="989" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>MetaLeft: ⌘</title>
+<rect x="1132.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1155.5" y="989" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>Space: Space</title>
+<rect x="1184.0" y="958" width="188" height="50" rx="7" class="key passthrough"/>
+<text x="1278.0" y="989" class="key-text" text-anchor="middle">Space</text>
+</g>
+<g><title>MetaRight: ⌘</title>
+<rect x="1377.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1400.5" y="989" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>AltRight: Option</title>
+<rect x="1429.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1452.5" y="989" class="key-text small" text-anchor="middle">Option</text>
+</g>
+<g><title>ArrowLeft: ←</title>
+<rect x="1481.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1504.5" y="989" class="key-text" text-anchor="middle">←</text>
+</g>
+<g><title>ArrowDown: ↓</title>
+<rect x="1533.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1556.5" y="989" class="key-text" text-anchor="middle">↓</text>
+</g>
+<g><title>ArrowUp: ↑</title>
+<rect x="1585.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1608.5" y="989" class="key-text" text-anchor="middle">↑</text>
+</g>
+<g><title>ArrowRight: →</title>
+<rect x="1637.0" y="958" width="47" height="50" rx="7" class="key passthrough"/>
+<text x="1660.5" y="989" class="key-text" text-anchor="middle">→</text>
+</g>
+<text x="46" y="1057" class="note" text-anchor="start">Right Option + Shift + O/K/L/M types ↑/←/↓/→ on both keyboards.</text>
+<text x="46" y="1083" class="note" text-anchor="start">BT60: Fn + right Option opens Adjust; Bluetooth profile actions are inactive while BLE is disabled.</text>
+<text x="46" y="1109" class="note" text-anchor="start">Print sends Print Screen (seen as F13 on macOS); it currently changes brightness on this Mac.</text>
+</svg>
