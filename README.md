@@ -11,7 +11,7 @@ BT60 already has a macOS per-device Alt/Command swap. See
 [`macos/README.md`](macos/README.md) for the matching M3 MacBook Air layout
 and Fn rules.
 
-![Final BT60 and MacBook Air base and Fn layouts](keyboard-layout.svg)
+![Final BT60 Base, Raise and Adjust layers with matching MacBook Air Base and Fn layouts](keyboard-layout.svg)
 
 Use the [local interactive keyboard check](tools/keycheck/README.md) to verify
 the MacBook and BT60 one key at a time before relying on the new layout.

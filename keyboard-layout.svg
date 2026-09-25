@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1140" viewBox="0 0 1800 1140" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1580" viewBox="0 0 1800 1580" role="img" aria-labelledby="title description">
 <title id="title">Final BT60 and MacBook Air keyboard layout</title>
-<desc id="description">Two keyboards shown in base and Fn layers. BT60 and M3 MacBook Air share FR-OSS Arrows text input and Fn navigation and media shortcuts. Fn plus the bracket keys sends F14 and F15.</desc>
+<desc id="description">BT60 and M3 MacBook Air base and Fn layouts, plus the BT60 Adjust layer. Both keyboards share FR-OSS Arrows text input and Fn navigation and media shortcuts. The BT60 Adjust layer contains reset, bootloader and disabled Bluetooth profile actions.</desc>
 <style>
 svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:#101824;color:#eaf1f7}
 .bg{fill:#101824}.panel{fill:#1b2838;stroke:#385064;stroke-width:1.5}
@@ -10,11 +10,13 @@ svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;bac
 .key.arrow{fill:#24495b;stroke:#63abc5}.key.passthrough{fill:#233142;stroke:#40586a}
 .key.action{fill:#34516c;stroke:#7fb6e5}.key.nav{fill:#24575d;stroke:#67c4c5}
 .key.media{fill:#605038;stroke:#e8b767}.key.newf{fill:#516235;stroke:#b4da6f}
+.key.disabled{fill:#3b3d45;stroke:#8b8e96;stroke-dasharray:4 3}.key.danger{fill:#6b3942;stroke:#eda4a8}
 .key-text{font-size:15px;font-weight:650;fill:#f0f5fb}.key-text.small{font-size:12px}
 .note{font-size:16px;fill:#c3d1df}.note-strong{fill:#e8f4a4;font-weight:700}
+.info-title{font-size:21px;font-weight:700;fill:#f2f6fb}.info-line{font-size:17px;fill:#d2e0ec}
 .legend{font-size:15px;fill:#d1deea}
 </style>
-<rect x="0" y="0" width="1800" height="1140" rx="0" class="bg"/>
+<rect x="0" y="0" width="1800" height="1580" rx="0" class="bg"/>
 <text x="45" y="57" class="title" text-anchor="start">Final keyboard layout</text>
 <text x="45" y="88" class="subtitle" text-anchor="start">BT60 V1 and M3 MacBook Air · shared FR-OSS Arrows input source</text>
 <rect x="45" y="120" width="850" height="440" rx="18" class="panel"/>
@@ -1157,7 +1159,265 @@ svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;bac
 <rect x="1663.6" y="958" width="51.42857142857143" height="50" rx="7" class="key passthrough"/>
 <text x="1689.3" y="989" class="key-text" text-anchor="middle">→</text>
 </g>
-<text x="46" y="1057" class="note" text-anchor="start">Right Option + Shift + O/K/L/M types ↑/←/↓/→ on both keyboards.</text>
-<text x="46" y="1083" class="note" text-anchor="start">BT60: Fn + right Option opens Adjust; Bluetooth profile actions are inactive while BLE is disabled.</text>
-<text x="46" y="1109" class="note" text-anchor="start">Print sends Print Screen (seen as F13 on macOS); it currently changes brightness on this Mac.</text>
+<rect x="45" y="1050" width="850" height="440" rx="18" class="panel"/>
+<text x="71" y="1085" class="panel-title" text-anchor="start">BT60 V1 · ISO</text>
+<text x="71" y="1110" class="panel-subtitle" text-anchor="start">Adjust · hold Fn + right Option</text>
+<g><title>Escape: `</title>
+<rect x="85.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="108.5" y="1164" class="key-text" text-anchor="middle">`</text>
+</g>
+<g><title>Digit1: BT 1</title>
+<rect x="137.0" y="1133" width="47.0" height="50" rx="7" class="key disabled"/>
+<text x="160.5" y="1164" class="key-text" text-anchor="middle">BT 1</text>
+</g>
+<g><title>Digit2: BT 2</title>
+<rect x="189.0" y="1133" width="47.0" height="50" rx="7" class="key disabled"/>
+<text x="212.5" y="1164" class="key-text" text-anchor="middle">BT 2</text>
+</g>
+<g><title>Digit3: BT 3</title>
+<rect x="241.0" y="1133" width="47.0" height="50" rx="7" class="key disabled"/>
+<text x="264.5" y="1164" class="key-text" text-anchor="middle">BT 3</text>
+</g>
+<g><title>Digit4: BT 4</title>
+<rect x="293.0" y="1133" width="47.0" height="50" rx="7" class="key disabled"/>
+<text x="316.5" y="1164" class="key-text" text-anchor="middle">BT 4</text>
+</g>
+<g><title>Digit5: BT 5</title>
+<rect x="345.0" y="1133" width="47.0" height="50" rx="7" class="key disabled"/>
+<text x="368.5" y="1164" class="key-text" text-anchor="middle">BT 5</text>
+</g>
+<g><title>Digit6: F6</title>
+<rect x="397.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="420.5" y="1164" class="key-text" text-anchor="middle">F6</text>
+</g>
+<g><title>Digit7: F7</title>
+<rect x="449.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="472.5" y="1164" class="key-text" text-anchor="middle">F7</text>
+</g>
+<g><title>Digit8: F8</title>
+<rect x="501.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="524.5" y="1164" class="key-text" text-anchor="middle">F8</text>
+</g>
+<g><title>Digit9: F9</title>
+<rect x="553.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="576.5" y="1164" class="key-text" text-anchor="middle">F9</text>
+</g>
+<g><title>Digit0: F10</title>
+<rect x="605.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="628.5" y="1164" class="key-text" text-anchor="middle">F10</text>
+</g>
+<g><title>Minus: F11</title>
+<rect x="657.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="680.5" y="1164" class="key-text" text-anchor="middle">F11</text>
+</g>
+<g><title>Equal: F12</title>
+<rect x="709.0" y="1133" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="732.5" y="1164" class="key-text" text-anchor="middle">F12</text>
+</g>
+<g><title>Backspace: BT Clear</title>
+<rect x="761.0" y="1133" width="94.0" height="50" rx="7" class="key disabled"/>
+<text x="808.0" y="1164" class="key-text small" text-anchor="middle">BT Clear</text>
+</g>
+<g><title>Tab: ²</title>
+<rect x="85.0" y="1191" width="78.88888888888889" height="50" rx="7" class="key passthrough"/>
+<text x="124.4" y="1222" class="key-text" text-anchor="middle">²</text>
+</g>
+<g><title>KeyQ: a</title>
+<rect x="168.9" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="195.2" y="1222" class="key-text" text-anchor="middle">a</text>
+</g>
+<g><title>KeyW: z</title>
+<rect x="226.5" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="252.8" y="1222" class="key-text" text-anchor="middle">z</text>
+</g>
+<g><title>KeyE: e</title>
+<rect x="284.1" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="310.4" y="1222" class="key-text" text-anchor="middle">e</text>
+</g>
+<g><title>KeyR: Boot</title>
+<rect x="341.7" y="1191" width="52.592592592592595" height="50" rx="7" class="key danger"/>
+<text x="368.0" y="1222" class="key-text" text-anchor="middle">Boot</text>
+</g>
+<g><title>KeyT: t</title>
+<rect x="399.3" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="425.6" y="1222" class="key-text" text-anchor="middle">t</text>
+</g>
+<g><title>KeyY: Mute</title>
+<rect x="456.9" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="483.1" y="1222" class="key-text" text-anchor="middle">Mute</text>
+</g>
+<g><title>KeyU: Vol−</title>
+<rect x="514.4" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="540.7" y="1222" class="key-text" text-anchor="middle">Vol−</text>
+</g>
+<g><title>KeyI: Vol+</title>
+<rect x="572.0" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="598.3" y="1222" class="key-text" text-anchor="middle">Vol+</text>
+</g>
+<g><title>KeyO: ↑</title>
+<rect x="629.6" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="655.9" y="1222" class="key-text" text-anchor="middle">↑</text>
+</g>
+<g><title>KeyP: Print</title>
+<rect x="687.2" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="713.5" y="1222" class="key-text" text-anchor="middle">Print</text>
+</g>
+<g><title>BracketLeft: F14</title>
+<rect x="744.8" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="771.1" y="1222" class="key-text" text-anchor="middle">F14</text>
+</g>
+<g><title>BracketRight: F15</title>
+<rect x="802.4" y="1191" width="52.592592592592595" height="50" rx="7" class="key passthrough"/>
+<text x="828.7" y="1222" class="key-text" text-anchor="middle">F15</text>
+</g>
+<g><title>CapsLock: Ctrl</title>
+<rect x="85.0" y="1249" width="79.89999999999999" height="50" rx="7" class="key passthrough"/>
+<text x="124.9" y="1280" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<g><title>KeyA: q</title>
+<rect x="169.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="193.4" y="1280" class="key-text" text-anchor="middle">q</text>
+</g>
+<g><title>KeyS: s</title>
+<rect x="221.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="245.4" y="1280" class="key-text" text-anchor="middle">s</text>
+</g>
+<g><title>KeyD: d</title>
+<rect x="273.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="297.4" y="1280" class="key-text" text-anchor="middle">d</text>
+</g>
+<g><title>KeyF: f</title>
+<rect x="325.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="349.4" y="1280" class="key-text" text-anchor="middle">f</text>
+</g>
+<g><title>KeyG: g</title>
+<rect x="377.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="401.4" y="1280" class="key-text" text-anchor="middle">g</text>
+</g>
+<g><title>KeyH: h</title>
+<rect x="429.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="453.4" y="1280" class="key-text" text-anchor="middle">h</text>
+</g>
+<g><title>KeyJ: PgUp</title>
+<rect x="481.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="505.4" y="1280" class="key-text" text-anchor="middle">PgUp</text>
+</g>
+<g><title>KeyK: ←</title>
+<rect x="533.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="557.4" y="1280" class="key-text" text-anchor="middle">←</text>
+</g>
+<g><title>KeyL: ↓</title>
+<rect x="585.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="609.4" y="1280" class="key-text" text-anchor="middle">↓</text>
+</g>
+<g><title>Semicolon: →</title>
+<rect x="637.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="661.4" y="1280" class="key-text" text-anchor="middle">→</text>
+</g>
+<g><title>Quote: Menu</title>
+<rect x="689.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="713.4" y="1280" class="key-text" text-anchor="middle">Menu</text>
+</g>
+<g><title>IntlHash: *</title>
+<rect x="741.9" y="1249" width="47.0" height="50" rx="7" class="key passthrough"/>
+<text x="765.4" y="1280" class="key-text" text-anchor="middle">*</text>
+</g>
+<g><title>Enter: Enter</title>
+<rect x="793.9" y="1249" width="61.1" height="50" rx="7" class="key passthrough"/>
+<text x="824.4" y="1280" class="key-text" text-anchor="middle">Enter</text>
+</g>
+<g><title>ShiftLeft: Shift</title>
+<rect x="85.0" y="1307" width="69.02777777777777" height="50" rx="7" class="key passthrough"/>
+<text x="119.5" y="1338" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>IntlBackslash: Reset</title>
+<rect x="159.0" y="1307" width="49.30555555555556" height="50" rx="7" class="key danger"/>
+<text x="183.7" y="1338" class="key-text" text-anchor="middle">Reset</text>
+</g>
+<g><title>KeyZ: Prev</title>
+<rect x="213.3" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="238.0" y="1338" class="key-text" text-anchor="middle">Prev</text>
+</g>
+<g><title>KeyX: Play</title>
+<rect x="267.6" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="292.3" y="1338" class="key-text" text-anchor="middle">Play</text>
+</g>
+<g><title>KeyC: Next</title>
+<rect x="321.9" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="346.6" y="1338" class="key-text" text-anchor="middle">Next</text>
+</g>
+<g><title>KeyV: v</title>
+<rect x="376.2" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="400.9" y="1338" class="key-text" text-anchor="middle">v</text>
+</g>
+<g><title>KeyB: b</title>
+<rect x="430.6" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="455.2" y="1338" class="key-text" text-anchor="middle">b</text>
+</g>
+<g><title>KeyN: n</title>
+<rect x="484.9" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="509.5" y="1338" class="key-text" text-anchor="middle">n</text>
+</g>
+<g><title>KeyM: PgDn</title>
+<rect x="539.2" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="563.8" y="1338" class="key-text" text-anchor="middle">PgDn</text>
+</g>
+<g><title>Comma: Home</title>
+<rect x="593.5" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="618.1" y="1338" class="key-text" text-anchor="middle">Home</text>
+</g>
+<g><title>Period: End</title>
+<rect x="647.8" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="672.4" y="1338" class="key-text" text-anchor="middle">End</text>
+</g>
+<g><title>Slash: !</title>
+<rect x="702.1" y="1307" width="49.30555555555556" height="50" rx="7" class="key passthrough"/>
+<text x="726.7" y="1338" class="key-text" text-anchor="middle">!</text>
+</g>
+<g><title>ShiftRight: Shift</title>
+<rect x="756.4" y="1307" width="98.61111111111111" height="50" rx="7" class="key passthrough"/>
+<text x="805.7" y="1338" class="key-text" text-anchor="middle">Shift</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="85.0" y="1365" width="66.81818181818181" height="50" rx="7" class="key modifier"/>
+<text x="118.4" y="1396" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>AltLeft: Option</title>
+<rect x="156.8" y="1365" width="66.81818181818181" height="50" rx="7" class="key passthrough"/>
+<text x="190.2" y="1396" class="key-text" text-anchor="middle">Option</text>
+</g>
+<g><title>MetaLeft: ⌘</title>
+<rect x="228.6" y="1365" width="66.81818181818181" height="50" rx="7" class="key passthrough"/>
+<text x="262.0" y="1396" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>Space: Space</title>
+<rect x="300.5" y="1365" width="267.27272727272725" height="50" rx="7" class="key passthrough"/>
+<text x="434.1" y="1396" class="key-text" text-anchor="middle">Space</text>
+</g>
+<g><title>MetaRight: ⌘</title>
+<rect x="572.7" y="1365" width="66.81818181818181" height="50" rx="7" class="key passthrough"/>
+<text x="606.1" y="1396" class="key-text" text-anchor="middle">⌘</text>
+</g>
+<g><title>AltRight: Option</title>
+<rect x="644.5" y="1365" width="66.81818181818181" height="50" rx="7" class="key modifier"/>
+<text x="678.0" y="1396" class="key-text" text-anchor="middle">Option</text>
+</g>
+<g><title>Fn: Fn</title>
+<rect x="716.4" y="1365" width="66.81818181818181" height="50" rx="7" class="key modifier"/>
+<text x="749.8" y="1396" class="key-text" text-anchor="middle">Fn</text>
+</g>
+<g><title>ControlRight: Ctrl</title>
+<rect x="788.2" y="1365" width="66.81818181818181" height="50" rx="7" class="key passthrough"/>
+<text x="821.6" y="1396" class="key-text" text-anchor="middle">Ctrl</text>
+</g>
+<rect x="905" y="1050" width="850" height="440" rx="18" class="panel"/>
+<text x="931" y="1085" class="info-title" text-anchor="start">Adjust notes</text>
+<text x="931" y="1128" class="info-line" text-anchor="start">Hold either BT60 Fn key and right Option.</text>
+<text x="931" y="1176" class="info-line" text-anchor="start">R enters the bootloader for firmware flashing.</text>
+<text x="931" y="1224" class="info-line" text-anchor="start">The ISO &lt; key beside left Shift resets the board.</text>
+<text x="931" y="1272" class="info-line" text-anchor="start">BT 1–5 and BT Clear are inactive while BLE is off.</text>
+<text x="931" y="1320" class="info-line" text-anchor="start">Dim keys retain their Raise actions.</text>
+<text x="931" y="1368" class="info-line" text-anchor="start">The MacBook has no Adjust layer.</text>
+<text x="46" y="1532" class="note" text-anchor="start">Right Option + Shift + O/K/L/M types ↑/←/↓/→ on both keyboards.</text>
+<text x="46" y="1558" class="note" text-anchor="start">Print sends Print Screen (seen as F13 on macOS); it currently changes brightness on this Mac.</text>
 </svg>
